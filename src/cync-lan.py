@@ -641,6 +641,7 @@ type_2_str = {
     37: "Dimmer Switch with Motion and Ambient Light",
     42: "Reveal HD+ Smart Under Cabinet Light - 18 Inch",
     43: "Reveal HD+ Smart Under Cabinet Light - 24 Inch",
+    59: "Wired Smart Light Switches",
     68: "Indoor Direct Connect Plug",
     113: "Wire-Free White Temperature Dimmer Switch",
     133: "Full Color Direct Connect LED Light Strip Controller",
